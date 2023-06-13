@@ -1,3 +1,3 @@
 module.exports = (req, res) => {
-    res.send("directus")
+    res.send("directus-new")
 };
